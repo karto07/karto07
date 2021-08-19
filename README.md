@@ -69,6 +69,20 @@
   <img alt = "Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /><br>
   <img alt = "Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /><br>
 </p>
+
+## 😄 Cool Stats
+
+![Ragav's GitHub stats](https://github-readme-stats.vercel.app/api?username=karto07&show_icons=true&theme=dracula)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karto07&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karto07&layout=compact&theme=dracula&langs_count=6)
+
+<h2 align="left">Connect with me ❤️</h2>
+<p align="left">
+
+</p>
+
   
   
   
