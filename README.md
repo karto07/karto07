@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Karthik, Data Scientist and Full Stack Developer with the right mix of Functional programming from Chennai, Tamil Nadu
+<p>Welcome to my page! </br> I'm Karthik, Data Science enthusiast with the right mix of Functional programming from Chennai, Tamil Nadu
 <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/>.</b> 
 <br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning cutting edge technology.</p>
 
